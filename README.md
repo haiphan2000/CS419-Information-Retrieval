@@ -1,1 +1,1 @@
-# CS419-Information-Retrieval
+# CS419 - Information Retrieval
